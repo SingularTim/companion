@@ -379,3 +379,6 @@
 [submodule "lib/module/techministry-midirelay"]
 	path = lib/module/techministry-midirelay
 	url = https://github.com/bitfocus/companion-module-techministry-midirelay.git
+[submodule "lib/module/singular-http"]
+	path = lib/module/singular-http
+	url = https://github.com/SingularTim/companion-module-singular-http.git
