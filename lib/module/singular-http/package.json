@@ -1,0 +1,21 @@
+{
+  "name": "singular-http",
+  "version": "1.0.0",
+  "api_version":"1.0.0",
+  "support": { "action": true, "feedback": false, "preset": false },
+  "keywords": ["Singular"],
+  "manufacturer":"Singular",
+  "homepage":"https://singular.live",
+  "product":"Singular PUT",
+  "shortname": "HTTP PUT",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "singular-http": "main.js"
+  },
+  "author": "Tim Ho",
+  "license": "ISC"
+}
